@@ -4,7 +4,23 @@ My solutions for few laboratory exercises.
 
 ## Topics of academic exercises
 * sortingArray
-* Quick Sort, Bubble Sort, Merge Sort, Insertion Sort, Selection Sort, Bucket Sort.
-* graphs algorithm Dijkstry,Floyda Warshala
-* Binary Tree, Binary Search Tree, AVL Tree, BST Tree
-* recursive algorithms, min max algorithm
+*Configuring the development environment,
+*Creating a simple console application,
+*Defining and using variables, built-in data types,
+*Operators, Casting, Control instructions
+*Functions, Overloading names, Static arrays 
+*Pointers, Dynamic memory management.
+*Input/output operations.
+*Defined types - structures. Tests.
+## 
+*Designing window application.
+*Exceptions, searching for errors in the code- debugging.
+*Block diagrams.
+*Recursive algorithms.
+*Sorting algorithms.
+*Searching algorithms.
+*Lists. STL library. 
+*BST trees.
+*Graphs.
+*Text search.
+*Hash table.
